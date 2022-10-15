@@ -1,0 +1,112 @@
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\ProyectoInicialFoto.dll.config
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\ProyectoInicialFoto.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\ProyectoInicialFoto.pdb
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\csc.exe
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\csc.exe.config
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\csc.rsp
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\csi.exe
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\csi.exe.config
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\csi.rsp
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.AppContext.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Collections.Immutable.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Console.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.IO.Compression.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.IO.FileSystem.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.IO.Pipes.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Reflection.Metadata.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.AccessControl.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.Claims.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.ValueTuple.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Xml.XPath.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\vbc.exe
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\vbc.exe.config
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\vbc.rsp
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\VBCSCompiler.exe
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\VBCSCompiler.exe.config
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\obj\Debug\ProyectoInicialFoto.csprojAssemblyReference.cache
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\obj\Debug\ProyectoInicialFoto.csproj.CoreCompileInputs.cache
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\obj\Debug\ProyectoInicialFoto.csproj.CopyComplete
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\obj\Debug\ProyectoInicialFoto.dll
+D:\Uniautonoma\calidad software 2\Proyectos\ProyectoInicialFoto\ProyectoInicialFoto\obj\Debug\ProyectoInicialFoto.pdb
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\ProyectoInicialFoto.dll.config
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\ProyectoInicialFoto.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\ProyectoInicialFoto.pdb
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\csc.exe
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\csc.exe.config
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\csc.rsp
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\csi.exe
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\csi.exe.config
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\csi.rsp
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.AppContext.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Console.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.IO.Compression.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.Claims.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.ValueTuple.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\vbc.exe
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\vbc.exe.config
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\vbc.rsp
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\VBCSCompiler.exe
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\obj\Debug\ProyectoInicialFoto.csprojAssemblyReference.cache
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\obj\Debug\ProyectoInicialFoto.csproj.CoreCompileInputs.cache
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\obj\Debug\ProyectoInicialFoto.csproj.CopyComplete
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\obj\Debug\ProyectoInicialFoto.dll
+C:\Users\jesit\Uniautonoma\Calidad_II\ProyectoInicialFoto\ProyectoInicialFoto\obj\Debug\ProyectoInicialFoto.pdb
