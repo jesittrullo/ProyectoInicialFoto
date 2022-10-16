@@ -102,7 +102,7 @@
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
                     <td class="auto-style5">
-                        <asp:Image ID="ImgJesit" runat="server" CssClass="auto-style11" Height="150px" Width="150px" ImageUrl="~/FotoJesit.jpeg" />
+                        <asp:Image ID="ImgJesit" runat="server" CssClass="auto-style11" Height="150px" Width="150px" ImageUrl="~/images/FotoJesit.jpeg" />
                     </td>
                     <td class="auto-style6">
                         <asp:Label ID="Label4" runat="server" CssClass="auto-style11" Text="JESIT STIDWAR TRULLO GOMEZ"></asp:Label>
@@ -112,7 +112,7 @@
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
                     <td class="auto-style17">
-                        <asp:Image ID="ImgJesit0" runat="server" CssClass="auto-style11" Height="150px" Width="150px" ImageUrl="~/FotoNicolas.jpeg" />
+                        <asp:Image ID="ImgNicolas" runat="server" CssClass="auto-style11" Height="150px" Width="150px" ImageUrl="~/images/FotoNicolas.jpeg" />
                     </td>
                     <td class="auto-style18">NICOLAS PANESSO CASTRO</td>
                     <td class="auto-style11">&nbsp;</td>
