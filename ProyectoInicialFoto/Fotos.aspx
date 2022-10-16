@@ -68,6 +68,16 @@
             font-family: Fixedsys;
             height: 63px;
         }
+        .auto-style17 {
+            width: 297px;
+            font-family: Fixedsys;
+            text-align: center;
+        }
+        .auto-style18 {
+            width: 295px;
+            font-family: Fixedsys;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -101,10 +111,10 @@
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
-                    <td class="auto-style3">
-                        <asp:Image ID="ImgJesit0" runat="server" CssClass="auto-style11" Height="150px" Width="150px" ImageUrl="~/FotoNIcolas.jpeg" />
+                    <td class="auto-style17">
+                        <asp:Image ID="ImgJesit0" runat="server" CssClass="auto-style11" Height="150px" Width="150px" ImageUrl="~/FotoNicolas.jpeg" />
                     </td>
-                    <td class="auto-style12">&nbsp;</td>
+                    <td class="auto-style18">NICOLAS PANESSO CASTRO</td>
                     <td class="auto-style11">&nbsp;</td>
                 </tr>
                 <tr>
