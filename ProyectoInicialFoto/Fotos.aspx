@@ -101,7 +101,9 @@
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
-                    <td class="auto-style3">&nbsp;</td>
+                    <td class="auto-style3">
+                        <asp:Image ID="ImgJesit0" runat="server" CssClass="auto-style11" Height="150px" Width="150px" ImageUrl="~/FotoNIcolas.jpeg" />
+                    </td>
                     <td class="auto-style12">&nbsp;</td>
                     <td class="auto-style11">&nbsp;</td>
                 </tr>
