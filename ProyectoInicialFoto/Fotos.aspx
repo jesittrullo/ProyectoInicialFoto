@@ -135,8 +135,10 @@
                 </tr>
                 <tr>
                     <td class="auto-style7"></td>
-                    <td class="auto-style23"></td>
-                    <td class="auto-style9"></td>
+                    <td class="auto-style23">
+                        <asp:Image ID="Image3" runat="server" CssClass="auto-style11" Height="150px" Width="138px" ImageUrl="~/images/FotoHeidy.jpeg" />
+                    </td>
+                    <td class="auto-style9">Heidy Natalia Fernandez Cometa</td>
                     <td class="auto-style10"></td>
                 </tr>
                 <tr>
