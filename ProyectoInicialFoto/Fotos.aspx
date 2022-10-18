@@ -15,24 +15,12 @@
             width: 312px;
             font-family: Fixedsys;
         }
-        .auto-style3 {
-            width: 297px;
-            font-family: Fixedsys;
-        }
-        .auto-style5 {
-            width: 297px;
-            text-align: center;
-        }
         .auto-style6 {
             width: 295px;
             text-align: center;
         }
         .auto-style7 {
             width: 312px;
-            height: 26px;
-        }
-        .auto-style8 {
-            width: 297px;
             height: 26px;
         }
         .auto-style9 {
@@ -54,11 +42,6 @@
             font-family: Fixedsys;
             height: 63px;
         }
-        .auto-style14 {
-            width: 297px;
-            text-align: center;
-            height: 63px;
-        }
         .auto-style15 {
             width: 295px;
             text-align: center;
@@ -68,15 +51,32 @@
             font-family: Fixedsys;
             height: 63px;
         }
-        .auto-style17 {
-            width: 297px;
-            font-family: Fixedsys;
-            text-align: center;
-        }
         .auto-style18 {
             width: 295px;
             font-family: Fixedsys;
             text-align: center;
+        }
+        .auto-style19 {
+            width: 216px;
+            text-align: center;
+            height: 63px;
+        }
+        .auto-style20 {
+            width: 216px;
+            text-align: center;
+        }
+        .auto-style21 {
+            width: 216px;
+            font-family: Fixedsys;
+            text-align: center;
+        }
+        .auto-style22 {
+            width: 216px;
+            font-family: Fixedsys;
+        }
+        .auto-style23 {
+            width: 216px;
+            height: 26px;
         }
     </style>
 </head>
@@ -91,7 +91,7 @@
                 </tr>
                 <tr>
                     <td class="auto-style13"></td>
-                    <td class="auto-style14">
+                    <td class="auto-style19">
                         <asp:Label ID="Label2" runat="server" CssClass="auto-style11" Text="Foto"></asp:Label>
                     </td>
                     <td class="auto-style15">
@@ -101,7 +101,7 @@
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
-                    <td class="auto-style5">
+                    <td class="auto-style20">
                         <asp:Image ID="ImgJesit" runat="server" CssClass="auto-style11" Height="150px" Width="150px" ImageUrl="~/images/FotoJesit.jpeg" />
                     </td>
                     <td class="auto-style6">
@@ -111,7 +111,7 @@
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
-                    <td class="auto-style17">
+                    <td class="auto-style21">
                         <asp:Image ID="ImgNicolas" runat="server" CssClass="auto-style11" Height="150px" Width="150px" ImageUrl="~/images/FotoNicolas.jpeg" />
                     </td>
                     <td class="auto-style18">NICOLAS PANESSO CASTRO</td>
@@ -119,31 +119,33 @@
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
-                    <td class="auto-style3">&nbsp;</td>
-                    <td class="auto-style12">&nbsp;</td>
+                    <td class="auto-style22">
+                        <asp:Image ID="Image1" runat="server" CssClass="auto-style11" Height="150px" Width="138px" ImageUrl="~/images/Fotojuan.jpeg" />
+                    </td>
+                    <td class="auto-style12">Juan Camilo Muñoz Villa</td>
                     <td class="auto-style11">&nbsp;</td>
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
-                    <td class="auto-style3">&nbsp;</td>
+                    <td class="auto-style22">&nbsp;</td>
                     <td class="auto-style12">&nbsp;</td>
                     <td class="auto-style11">&nbsp;</td>
                 </tr>
                 <tr>
                     <td class="auto-style7"></td>
-                    <td class="auto-style8"></td>
+                    <td class="auto-style23"></td>
                     <td class="auto-style9"></td>
                     <td class="auto-style10"></td>
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
-                    <td class="auto-style3">&nbsp;</td>
+                    <td class="auto-style22">&nbsp;</td>
                     <td class="auto-style12">&nbsp;</td>
                     <td class="auto-style11">&nbsp;</td>
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
-                    <td class="auto-style3">&nbsp;</td>
+                    <td class="auto-style22">&nbsp;</td>
                     <td class="auto-style12">&nbsp;</td>
                     <td class="auto-style11">&nbsp;</td>
                 </tr>
