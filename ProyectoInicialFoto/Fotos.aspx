@@ -143,8 +143,10 @@
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
-                    <td class="auto-style22">&nbsp;</td>
-                    <td class="auto-style12">&nbsp;</td>
+                    <td class="auto-style22">
+                        <asp:Image ID="Image4" runat="server" CssClass="auto-style11" Height="150px" Width="138px" ImageUrl="~/images/FotoLaura.jpg" />
+                    </td>
+                    <td class="auto-style12">Laura Maritza Bazante Anacona&nbsp;</td>
                     <td class="auto-style11">&nbsp;</td>
                 </tr>
                 <tr>
